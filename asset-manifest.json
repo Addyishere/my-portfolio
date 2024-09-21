@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/addyisheree.github.io/myprotfolio/static/css/main.41b7767c.css",
+    "main.js": "/addyisheree.github.io/myprotfolio/static/js/main.0c6cab00.js",
+    "static/js/415.4d6acbeb.chunk.js": "/addyisheree.github.io/myprotfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/addyisheree.github.io/myprotfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/addyisheree.github.io/myprotfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/addyisheree.github.io/myprotfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/addyisheree.github.io/myprotfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/aditya.pdf": "/addyisheree.github.io/myprotfolio/static/media/aditya.b1f854bcc5baaa6d6f35.pdf",
+    "static/media/codeEditor.png": "/addyisheree.github.io/myprotfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/addyisheree.github.io/myprotfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/addyisheree.github.io/myprotfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/addyisheree.github.io/myprotfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/dash.jpg": "/addyisheree.github.io/myprotfolio/static/media/dash.76163e893a52c0d73321.jpg",
+    "static/media/chatify.png": "/addyisheree.github.io/myprotfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/addyisheree.github.io/myprotfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/addyisheree.github.io/myprotfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/addyisheree.github.io/myprotfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/addyisheree.github.io/myprotfolio/index.html",
+    "main.41b7767c.css.map": "/addyisheree.github.io/myprotfolio/static/css/main.41b7767c.css.map",
+    "main.0c6cab00.js.map": "/addyisheree.github.io/myprotfolio/static/js/main.0c6cab00.js.map",
+    "415.4d6acbeb.chunk.js.map": "/addyisheree.github.io/myprotfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/addyisheree.github.io/myprotfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b7767c.css",
+    "static/js/main.0c6cab00.js"
+  ]
+}
